@@ -1,6 +1,6 @@
 body {
      font-family: lato;
-    background-color: white;
+    background-color: hotpink;
 }
 
 img {
@@ -19,14 +19,23 @@ ul, ol {
     color: black;
 }
 
-p{
+p {
     color: rgb(10, 10, 30);
     text-align: center;
+    border: 25px;
+    padding: 50px;
+    border-radius: 50%;
+    border-color: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 75px;
 }
 
 h1, h2, h3 {
     color: rgb(20, 20, 50);
     text-align: center;
+    margin-top: 25px;
+    padding: 50px;
 }
 
 ul a, ol a:visited {
